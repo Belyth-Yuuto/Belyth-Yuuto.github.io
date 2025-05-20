@@ -19,7 +19,7 @@ title: Azem Archives # the main title
 tagline: My personal blog for guide things
 
 description: >- # used by seo meta and the atom feed
- Just some Savage/Ultimate things 
+  My personal blog for guide things
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -88,7 +88,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: dark # [light | dark]
+theme_mode: # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -98,7 +98,7 @@ theme_mode: dark # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: images\fnf-jpg.jpg
+avatar: https://media1.tenor.com/m/D1iYiIzst_MAAAAC/friday-night-funkin-gf-fnf-gf.gif
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
