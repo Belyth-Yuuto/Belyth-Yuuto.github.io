@@ -4,9 +4,9 @@ icon: fas fa-tags
 order: 5
 ---
 
-![Endwalker](\images\endwalker.png)
+![Endwalker](endwalker.png)
 ***
-![AAC Cruiserweight](\images\CruiserWeight.png)
+![AAC Cruiserweight](CruiserWeight.png)
 
 - Dancing Green
 - Sugar Riot
