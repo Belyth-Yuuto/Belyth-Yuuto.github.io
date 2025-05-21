@@ -15,7 +15,7 @@ tags: [savage,endwalker]
 - Ideal Killtime: 8:30
 - Enrage 10:06
 
-![Timeline Green](../images/Dancinggreen/Timeline%20Bean.webp)
+![Timeline Green](/images/Dancinggreen/Timeline%20Bean.webp)
 Thanks ExiaKuromonji for this giga cool
 [Reddit Post Timeline](https://www.reddit.com/r/ffxiv/comments/1jp2os9/spoiler_72_m5s_timeline/)
 
@@ -46,16 +46,16 @@ Boss is going to cast Flip to A-Side or Flip to B-Side this will resolve after t
     <th>Flip to B-Side</th>
 </tr>
 <tr>
-    <th><img src="..\images\Dancinggreen\A-Side.png" alt="A Side Spreads"></th>
-    <th><img src="..\images\Dancinggreen\B-Side.png" alt="B Side"></th>
+    <th><img src="\images\Dancinggreen\A-Side.png" alt="A Side Spreads"></th>
+    <th><img src="\images\Dancinggreen\B-Side.png" alt="B Side"></th>
 </tr>
 <tr>
     <th>Stack with your roles can be survived alone just light mit through it and don't panic</th>
     <th>Stack with your group and light mitt it</th>
 </tr>
 <tr>
-    <th><img src="../images/Dancinggreen/Aside Resolve.gif"></th>
-    <th><img src="../images/Dancinggreen/Bside Resolve.gif"></th>
+    <th><img src="/images/Dancinggreen/Aside Resolve.gif"></th>
+    <th><img src="/images/Dancinggreen/Bside Resolve.gif"></th>
 </tr>
 </table>
 
@@ -68,7 +68,7 @@ Boss is going to point to one side and cleave it the number of times indicated o
 - After cleaves resolve it's going to do the intended side casted.
 - If u get distracted u can react to the cleave when boss stops moving his arm.
 
-<img src="../images/Dancinggreen/Cleaving Side.gif">
+<img src="/images/Dancinggreen/Cleaving Side.gif">
 
 
 ##Celebrate Good Times (Raidwide)
@@ -96,10 +96,10 @@ Check your debuffs (Support/DPS based) [Need confirmation]
     </tr>
     <tr>
         <th>
-        <img src="../images/Dancinggreen/DiscoInfernal First Pattern.png">
+        <img src="/images/Dancinggreen/DiscoInfernal First Pattern.png">
         </th>
         <th>
-        <img src="../images/Dancinggreen/DiscoInfernal Second Pattern.png">
+        <img src="/images/Dancinggreen/DiscoInfernal Second Pattern.png">
         </th>
     </tr>
 </table>
@@ -133,7 +133,7 @@ Now that u know your safe spot boss is going to do an In and Out mechanic.
     </tr>
     <tr>
         <th>
-        <img src="../images/Dancinggreen/InsideOut.gif">
+        <img src="/images/Dancinggreen/InsideOut.gif">
         </th>
         <th>
         Gif Here
@@ -163,10 +163,10 @@ While hitting Supporters and 1 DPS with cleaves. When you get hit by a cleave yo
 
 <table>
 <th>
-<img src="../images/Dancinggreen/Arcady Night Fever.png">
+<img src="/images/Dancinggreen/Arcady Night Fever.png">
 </th>
 <th>
-<img src="../images/Dancinggreen/ArcadyNightFever.gif">
+<img src="/images/Dancinggreen/ArcadyNightFever.gif">
 </th>
 </table>
 
@@ -186,10 +186,10 @@ After Arcady Night Fever is over everyone will have a debuff. There is 2 ways of
     </tr>
     <tr>
         <th>
-        <img src="../images/Dancinggreen/LetsDance.png">
+        <img src="/images/Dancinggreen/LetsDance.png">
         </th>
         <th>
-        <img src="../images/Dancinggreen/LetsDanceXenos.gif">
+        <img src="/images/Dancinggreen/LetsDanceXenos.gif">
         </th>
     </tr>
     <tr>
@@ -204,14 +204,14 @@ After Arcady Night Fever is over everyone will have a debuff. There is 2 ways of
 
 
 After selecting your strat and position yourself for the strat, in the background there is going to be frogs line up pointing to one direction (This one is always east or west)
-<img src="../images/Dancinggreen/FrogDancing.png">
+<img src="/images/Dancinggreen/FrogDancing.png">
 
 They are pointing at the side they are going to cleave so don't be there.
 
 
 After everyone resolves this mechanic if u did your cleanse right and you didn't get hit by a cleave you are going to get a message in screen saying Perfect Groove
 
-<img src="../images/Dancinggreen/PerfectGroove.gif">
+<img src="/images/Dancinggreen/PerfectGroove.gif">
 
 This will give u a Damage Increase and if everyone got it you get an full LB Bar.
 
@@ -232,10 +232,10 @@ Group 1 West | Group 2 East
     </tr>
     <tr>
         <th>
-        <img src="../images/Dancinggreen/Ride the Wave Spread.png">
+        <img src="/images/Dancinggreen/Ride the Wave Spread.png">
         </th>
         <th>
-        <img src="../images/Dancinggreen/EigthBeat.png">
+        <img src="/images/Dancinggreen/EigthBeat.png">
         </th>
     </tr>
     <tr>
@@ -249,10 +249,10 @@ Group 1 West | Group 2 East
     </tr>
     <tr>
         <th>
-        <img src="../images/Dancinggreen/QuarterSpread.gif">
+        <img src="/images/Dancinggreen/QuarterSpread.gif">
         </th>
         <th>
-        <img src="../images/Dancinggreen/Waves Octo.gif">
+        <img src="/images/Dancinggreen/Waves Octo.gif">
         </th>
     </tr>
 </table>
@@ -277,10 +277,10 @@ Frogs are going to spawn and make everything unsafe except 4 Squares in N/S or W
     </tr>
     <tr>
         <th>
-        <img src="../images/Dancinggreen/FrogTourage Quad.png">
+        <img src="/images/Dancinggreen/FrogTourage Quad.png">
         </th>
         <th>
-        <img src="../images/Dancinggreen/FrogTourage Octo.png">
+        <img src="/images/Dancinggreen/FrogTourage Octo.png">
         </th>
     </tr>
     <tr>
@@ -296,7 +296,7 @@ Frogs are going to spawn and make everything unsafe except 4 Squares in N/S or W
         Placeholder
         </th>
         <th>
-        <img src="../images/Dancinggreen/FrogSpread.gif">
+        <img src="/images/Dancinggreen/FrogSpread.gif">
         </th>
 </table>
 
@@ -317,10 +317,10 @@ Long timer bait frog cleaves outside the lights, Short Timer takes the spotlight
     </tr>
     <tr>
         <th>
-        <img src="../images/Dancinggreen/InfernalCardinalSafe.png">
+        <img src="/images/Dancinggreen/InfernalCardinalSafe.png">
         </th>
         <th>
-        <img src="../images/Dancinggreen/InfernalCardinalIntercardinal.png">
+        <img src="/images/Dancinggreen/InfernalCardinalIntercardinal.png">
         </th>
     </tr>
     <tr>
@@ -334,10 +334,10 @@ Long timer bait frog cleaves outside the lights, Short Timer takes the spotlight
     </tr>
     <tr>
         <th>
-        <img src="../images/Dancinggreen/CardinalSafeInfernal.gif">
+        <img src="/images/Dancinggreen/CardinalSafeInfernal.gif">
         </th>
         <th>
-        <img src="../images/Dancinggreen/InterCardinalSafe.gif">
+        <img src="/images/Dancinggreen/InterCardinalSafe.gif">
         </th>
 </table>
 
@@ -351,17 +351,17 @@ Same as the first one but now can cleave North and South. Putting it here and sh
 
 You can look ahead to preplant before it cleaves north if it's only doing west or east and viceversa but you can calm and dodge normally.
 
-<img src="../images/Dancinggreen/LetsDance2.gif">
+<img src="/images/Dancinggreen/LetsDance2.gif">
 
 
 ## Frogtourage 2
 
 <table>
 <th>
- <img src="../images/Dancinggreen/FrogTourage2.png"> 
+ <img src="/images/Dancinggreen/FrogTourage2.png"> 
 </th>
 <th>
- <img src="../images/Dancinggreen/FrogTourage2.gif">
+ <img src="/images/Dancinggreen/FrogTourage2.gif">
 </th>
 </table>
 
@@ -388,10 +388,10 @@ Supporters take the first Bait, DPS Second one.
     </tr>
     <tr>
         <th>
-        <img src="../images/Dancinggreen/SideSafe.png">
+        <img src="/images/Dancinggreen/SideSafe.png">
         </th>
         <th>
-        <img src="../images/Dancinggreen/MiddleSafe.png">
+        <img src="/images/Dancinggreen/MiddleSafe.png">
         </th>
     </tr>
     <tr>
@@ -405,10 +405,10 @@ Supporters take the first Bait, DPS Second one.
     </tr>
     <tr>
         <th>
-        <img src="../images/Dancinggreen/Frog Side Safe.gif">
+        <img src="/images/Dancinggreen/Frog Side Safe.gif">
         </th>
         <th>
-        <img src="../images/Dancinggreen/FrogMiddle.gif">
+        <img src="/images/Dancinggreen/FrogMiddle.gif">
         </th>
 </table>
 
@@ -419,10 +419,10 @@ Same as Frougtourage 2 but cleaving West-East
 
 <table>
 <th>
- <img src="../images/Dancinggreen/Frog3.png"> 
+ <img src="/images/Dancinggreen/Frog3.png"> 
 </th>
 <th>
- <img src="../images/Dancinggreen/Frog3.gif">
+ <img src="/images/Dancinggreen/Frog3.gif">
 </th>
 </table>
 
@@ -442,10 +442,10 @@ As the first one is going to make some times safe and the other unsafe. With an 
     </tr>
     <tr>
         <th>
-        <img src="../images/Dancinggreen/FunkyFloor 2 Stack.png">
+        <img src="/images/Dancinggreen/FunkyFloor 2 Stack.png">
         </th>
         <th>
-        <img src="../images/Dancinggreen/FunkyFLoorSpread.png">
+        <img src="/images/Dancinggreen/FunkyFLoorSpread.png">
         </th>
     </tr>
     <tr>
@@ -458,10 +458,10 @@ As the first one is going to make some times safe and the other unsafe. With an 
     </tr>
     <tr>
         <th>
-        <img src="../images/Dancinggreen/FunkyFloor2 Stack.gif">
+        <img src="/images/Dancinggreen/FunkyFloor2 Stack.gif">
         </th>
         <th>
-        <img src="../images/Dancinggreen/FunkyFloor2Spead.gif">
+        <img src="/images/Dancinggreen/FunkyFloor2Spead.gif">
         </th>
 </table>
 
