@@ -1,6 +1,6 @@
 ---
 title: Dancing Green (Savage)
-date: 2024-5-21 01:00:00 -500
+date: 2024-5-21 01:00:00 
 categories: [savage,endwalker]
 tags: [savage,endwalker]
 ---
