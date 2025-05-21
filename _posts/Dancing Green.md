@@ -468,6 +468,6 @@ As the first one is going to make some times safe and the other unsafe. With an 
 
 ## Enrage!
 
-GG :3
+GG :3 x2
 
 ## Sources 

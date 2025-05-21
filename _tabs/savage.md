@@ -11,7 +11,7 @@ order: 5
 - Dancing Green
 - Sugar Riot
 - Brutal Abomination
-- Howling Blade 
+- Howling Blade a
 
 
 
