@@ -3,4 +3,12 @@ layout: page
 icon: fas fa-tags
 order: 5
 ---
-So how do i fix this?
+
+![Endwalker](..\images\endwalker.png)
+***
+![AAC Cruiserweight](..\images\CruiserWeight.png)
+
+- Dancing Green
+- Sugar Riot
+- Brutal Abomination
+- Howling Blade
