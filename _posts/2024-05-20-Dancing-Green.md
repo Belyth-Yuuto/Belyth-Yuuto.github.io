@@ -46,8 +46,8 @@ Boss is going to cast Flip to A-Side or Flip to B-Side this will resolve after t
     <th>Flip to B-Side</th>
 </tr>
 <tr>
-    <th><img src="\images\Dancinggreen\A-Side.png" alt="A Side Spreads"></th>
-    <th><img src="\images\Dancinggreen\B-Side.png" alt="B Side"></th>
+    <th><img src="../images\Dancinggreen\A-Side.png" alt="A Side Spreads"></th>
+    <th><img src="../images\Dancinggreen\B-Side.png" alt="B Side"></th>
 </tr>
 <tr>
     <th>Stack with your roles can be survived alone just light mit through it and don't panic</th>
